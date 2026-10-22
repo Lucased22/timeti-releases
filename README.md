@@ -8,7 +8,7 @@ Este repositório guarda só as versões do app para testes.
 
 ## Baixar
 
-**[Baixar a versão mais recente (timeti.apk)](https://github.com/Lucased22/timeti-releases/releases/latest/download/timeti.apk)**
+**[Baixar Timeti v0.2.0 (timeti.apk)](https://github.com/Lucased22/timeti-releases/releases/download/v0.2.0/timeti.apk)**
 
 Ou aponte a câmera do celular para o QR code:
 
